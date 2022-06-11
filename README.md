@@ -9,4 +9,4 @@ Personal information
 - 💬 Ask me about **Technology**, **Web Development** and **Software Development**
 - 🌍 I'm mostly active within the **JavaScript Community**
 
-###### Like my work? [**Buy me a coffee!**]((https://payme.uz/@saidmurodjon))
+###### Like my work? [**Buy me a coffee!**]([https://payme.uz/@saidmurodjon])
