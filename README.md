@@ -1,5 +1,4 @@
-# saidmuorodjon
-Personal information 
+
 ### Hi there! 👋
 
 #### I'm [**Saidmurod**](https://saidmurod.uz), a software developer passionate about technology!
